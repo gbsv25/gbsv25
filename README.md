@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou Gabriela</h1>
 <h3 align="center">Sou apaixonado pelo universo dos Dados</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Python, Machine Learning, DataViz**
+- 🌱 Atualmente estou aprendendo sobre **Python, Machine Learning, DataViz, AWS, Google CLOUD**
 
 - 👨‍💻 Todos os meus projetos estão no GitHub [https://github.com/gbsv25](https://github.com/gbsv25)
 
-- 💬 Me pergunte sobre **SQL, Python, Power BI, Excel**
+- 💬 Pergunte para mim sobre **SQL, Python, R, Power BI e Excel**
 
 - 📫 Como me encontrar **gabrielasrv25@gmail.com**
 
